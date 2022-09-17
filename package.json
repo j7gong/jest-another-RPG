@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j7gong/jest-another-RPG.git"
+  },
+  "author": "j7gong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j7gong/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/j7gong/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
